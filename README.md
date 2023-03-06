@@ -2,6 +2,7 @@
 
 Indulge in an otherworldly culinary experience at Mars Delight - where the flavors of the red planet meet the finest in dining.
 Experience the taste of a new world at Mars Delight - the premier restaurant on the red planet. From our locally sourced Martian ingredients to our signature dishes, every bite is an adventure that will transport your taste buds to the stars. Come join us and indulge in the ultimate culinary delight that Mars has to offer!
+ 
 
 ## Video demo of the project
 
@@ -12,6 +13,10 @@ https://drive.google.com/drive/folders/1-IS9W6SH6QdqEH26-W26NWcGXSMSCM9t?usp=sha
 
 ![IMG-20230305-WA0007](https://user-images.githubusercontent.com/52412969/222945886-3aad4ec8-2c21-4fd5-9b17-d642c27097c6.jpg)
 
+
+## Live Server
+
+https://mars-delight.vercel.app/
 
 ## Getting Started
 
@@ -47,16 +52,20 @@ Solidity, Figma, Ethereum, React.js, Spline, Replit, Solana, Polygon Mumbai Test
 
 ## The problem Mars Delight solves
 
-The near future is going to be highly dynamic, we will have inter-planetary lives and will need ways to enhance our experience of eating and cuisines with easy methods that comply with the earthly methods as well. We have built such a system that works on ETHEREUM+POLYGON+SOLANA blockchains. It can also be extended as a use case in the gaming as well as virtual-reality purposes in the WEB3 domain.
+An application that will create an unmatched dining experience on the red planet.
+We know that even tho its the year 2050 and humanity is probably using ar/vr and other fancy things or who knows even the metaverse at earth. but when we think about it, in terms of martian years, it would still be less than a decade, our priorities wont be “how can we improve the VR experience for the upcoming Dua lipa concert”, we will have more infrastructural level problems like finance. This made us realise that the application that we are creating must have all the functionality that is required by the newly developing nation of mars. One of the biggest challenge that an interplanetary civilisation would face is going to be currency transaction and tax related which we are going to solve using Web3.
 
 
 ## Challenges we ran into
 
--Using multi-chain protocols and highly dynamic architectures of different blockchains.
+We experienced firsthand the frustration and pain of integration hell. The process of integrating various technologies, software, and services can be extremely challenging, especially when working with unfamiliar tools.
+During a hackathon, time is of the essence, and any delays or setbacks can significantly impact the team's ability to create a functional and polished project within the given timeframe. The pressure to complete the project can lead to rushing the integration process, which can result in unexpected errors, conflicts, and compatibility issues that take hours or even days to resolve. In such a situation, it's important to stay calm and focused in the face of integration challenges. Frustration and stress can often make it more difficult to troubleshoot issues and find solutions. Taking breaks, practising deep breathing, and staying positive can all help us to stay on track and overcome integration challenges during a hackathon.
 
--Integration of all codes in a single repository.
+- Using multi-chain protocols and highly dynamic architectures of different blockchains.
 
--Writing the code for Rust and Solidity smart contracts.
+- Integration of all codes in a single repository.
+
+- Writing the code for Rust and Solidity smart contracts.
 
 
 
