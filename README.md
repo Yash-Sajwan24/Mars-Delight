@@ -55,6 +55,14 @@ Solidity, Figma, Ethereum, React.js, Spline, Replit, Solana, Polygon Mumbai Test
 An application that will create an unmatched dining experience on the red planet.
 We know that even tho its the year 2050 and humanity is probably using ar/vr and other fancy things or who knows even the metaverse at earth. but when we think about it, in terms of martian years, it would still be less than a decade, our priorities wont be “how can we improve the VR experience for the upcoming Dua lipa concert”, we will have more infrastructural level problems like finance. This made us realise that the application that we are creating must have all the functionality that is required by the newly developing nation of mars. One of the biggest challenge that an interplanetary civilisation would face is going to be currency transaction and tax related which we are going to solve using Web3.
 
+Our app would have 3 features that will make it special and functional-
+
+- we will be using cryptocurrency for as the primary payment mode as it would make interplanetary currency transactions and taxation compliance for a restaurant on Mars much easier. By using a cryptocurrency-based payment system, our restaurant can avoid the challenges associated with traditional currency exchanges and international banking systems, which may not be available on mars. Overall, utilizing cryptocurrency can provide a secure, efficient, and compliant payment solution for a restaurant on Mars.
+
+- we have created a gamified app experience wherein the user is rewarded by our own crypto tokens, the munchie tokens, for each order which they can avail in the future for discounts. This adds an extra layer of excitement and incentivizes customers to return.
+
+- Giving NFTs to the people that buy the most premium limited edition dishes that are of low availability on mars. This creates a sense of ownership and uniqueness among loyal customers.
+
 
 ## Challenges we ran into
 
