@@ -22,10 +22,6 @@ https://mars-delight.vercel.app/
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Build and Run Locally
 
 Clone the project
