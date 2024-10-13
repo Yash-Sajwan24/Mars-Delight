@@ -2,6 +2,10 @@
 
 Indulge in an otherworldly culinary experience at Mars Delight - where the flavors of the red planet meet the finest in dining.
 Experience the taste of a new world at Mars Delight - the premier restaurant on the red planet. From our locally sourced Martian ingredients to our signature dishes, every bite is an adventure that will transport your taste buds to the stars. Come join us and indulge in the ultimate culinary delight that Mars has to offer!
+
+## Live Server
+
+https://mars-delight.vercel.app/
  
 
 ## Video demo of the project
@@ -10,13 +14,18 @@ Experience the taste of a new world at Mars Delight - the premier restaurant on 
 https://drive.google.com/drive/folders/1-IS9W6SH6QdqEH26-W26NWcGXSMSCM9t?usp=sharing
 
 ![IMG-20230305-WA0002](https://user-images.githubusercontent.com/52412969/222945875-fe8c147e-9e17-4bff-821e-07a5786e2c52.jpg)
+![b6e5ed81-e428-4f8f-b1c9-ef7424a9b0d4](https://github.com/user-attachments/assets/769874b6-4949-439d-a070-3610002233b2)
+
+
 
 ![IMG-20230305-WA0007](https://user-images.githubusercontent.com/52412969/222945886-3aad4ec8-2c21-4fd5-9b17-d642c27097c6.jpg)
 
 
-## Live Server
+## Technologies Used
 
-https://mars-delight.vercel.app/
+Solidity, Figma, Ethereum, React.js, Spline, Replit, Solana, Polygon Mumbai Testnet, IPFS/FILECOIN, Redux Toolkit
+
+
 
 ## Getting Started
 
@@ -42,9 +51,7 @@ Start the server
   npm run dev
 ```
 
-## Technologies Used
 
-Solidity, Figma, Ethereum, React.js, Spline, Replit, Solana, Polygon Mumbai Testnet, IPFS/FILECOIN, Redux Toolkit
 
 ## The problem Mars Delight solves
 
